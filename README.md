@@ -8,6 +8,7 @@
 - _сейчас живу и работаю в Казани_
 
 ###Моя фотка
+
 ![Это я](./images/Nik.jpg) 
 
 Мой email [nikolai_79@ist.ru](nikolai_79@ist.ru)
